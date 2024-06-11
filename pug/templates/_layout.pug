@@ -1,0 +1,46 @@
+mjml
+    //- Head
+    mj-head
+        mj-title Lettre Assurance Etudiant Mai 2024
+        mj-raw.
+            <meta name='color-scheme' content='light'></meta>
+            <meta name='supported-color-schemes' content='light'></meta>
+        mj-attributes
+            mj-all(font-family='Arial, Helvetica, sans-serif')/
+            mj-text(font-size='16px' font-weight='300' line-height='20px')
+        mj-breakpoint(width='480px')
+        mj-style.
+            .hover:hover td, .hover:hover a{
+                background-color:#684092 !important;
+            }
+    //- Body
+    mj-body(background-color='#fcfcfc')
+        //- Partenaire ESA
+        block esa
+            include ../includes/_esa
+
+        //- Header
+        block header
+       
+        //- Bandeau Post
+        block bandeau
+            include ../includes/_01bandeau
+        
+        //- Dossier
+        block dossier
+
+        //- Article
+        block video
+            include ../includes/_article   
+
+        //- Video
+        block video
+            include ../includes/_video
+
+        //- Agenda
+        block agenda
+            include ../includes/_01agenda
+
+        //- footer Post
+        block footer
+            include ../includes/_footer
