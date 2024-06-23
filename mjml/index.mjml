@@ -13,7 +13,7 @@
     <mj-breakpoint width="480px"></mj-breakpoint>
     <mj-style>
       .hover:hover td, .hover:hover a{
-          background-color:#684092 !important;
+          background-color:#270938 !important;
       }
     </mj-style>
   </mj-head>
@@ -29,7 +29,7 @@
       </mj-group>
     </mj-section>
     <mj-section background-color="#EDF2F7" padding-bottom="0">
-      <mj-group width="550px"> 
+      <mj-group width="92%"> 
         <mj-column width="60%" padding="10px">
           <mj-image align="left" padding="0" width="256px" src="https://img.mailinblue.com/3403292/images/content_library/original/65eb2771d0c8d6691c4e4e7c.png" href="https://ecosup-assurance.fr" alt="Logo Ecosup Assurance"></mj-image>
         </mj-column>
@@ -39,7 +39,7 @@
       </mj-group>
     </mj-section>
     <mj-section background-color="#EDF2F7" padding="0">       
-      <mj-column width="550px">
+      <mj-column width="92%">
         <mj-social align="right" inner-padding="0 10px 0 0px" padding="0 10px" icon-size="30px" mode="horizontal">
           <mj-social-element src="https://img.mailinblue.com/3403292/images/content_library/original/65e9a0e8e9b9c597806fa9e9.gif" href="https://www.facebook.com/EcosupAssurance" alt="icon Facebook"></mj-social-element>
           <mj-social-element src="https://img.mailinblue.com/3403292/images/content_library/original/65e9a0f123605bbe5926c9b7.gif" href="https://www.instagram.com/ecosup.campus/" alt="icon Instagram"></mj-social-element>
@@ -48,14 +48,14 @@
       </mj-column>
     </mj-section>
     <mj-section background-color="#EDF2F7" padding="0">
-      <mj-column width="550px" padding="10px">
+      <mj-column width="92%" padding="10px">
         <mj-text padding="0" align="left" font-size="16px" font-weight="300" line-height="20px" color="#2D3748"><span style="font-weight:700;text-transform:uppercase;">news ecosup assurance</span> | Juin 2024        </mj-text>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#270938">
-      <mj-column width="550px">
-        <mj-text align="center" font-size="28px" line-height="32px" font-weight="500" color="#BA4995"><span style="font-weight:700;color:#ffffff;">Plus de 40 postes en alternance</span> à pourvoir auprès de nos <span style="font-weight:700;color:#ffffff;">entreprises partenaires</span></mj-text>
-        <mj-button css-class="hover" padding="25px 0 15px 0" align="center" font-size="16px" background-color="#BA4995" color="#ffffff" href="https://ecosup-assurance.fr/category/postes-pourvoir">Postulez</mj-button>
+    <mj-section padding="0">
+      <mj-column width="100%" background-color="#684092">
+        <mj-image padding="0" border="0" alt="+40 postes à pourvoir en alternance chez nos entreprises partenaires" src="https://i.ibb.co/PmvMPfV/bandeau-Let.gif"/>
+        <mj-button align="right" css-class="hover" padding-top="0" padding-right="35px" padding-bottom="25px" font-size="16px" background-color="#BA4995" color="#ffffff" href="https://ecosup-assurance.fr/category/postes-pourvoir">Postulez</mj-button>
       </mj-column>
     </mj-section>
     <mj-section background-color="#EDF2F7" padding="0px">
@@ -64,7 +64,7 @@
       </mj-column>
     </mj-section>
     <mj-section background-color="#EDF2F7" padding-top="10px" padding-bottom="20px">
-      <mj-column width="530px"> 
+      <mj-column width="88%"> 
         <mj-text padding-top="5px" padding-bottom="5px" font-size="14px" line-height="18px" font-weight="900" text-transform="uppercase" color="#944694">Dossier</mj-text>
         <mj-text padding-top="0" padding-bottom="0" font-size="28px" line-height="30px" font-weight="300" color="#684092">Cyberattaques, Dérèglement climatique et Environnement économique : <span style="font-weight:700;">les risques majeurs pour l'assurance</span></mj-text>
         <mj-text padding-top="5px" padding-bottom="0" font-size="16px" font-weight="500" line-height="20px">Le monde de l'assurance est confronté à des <span style="font-weight:700;">défis croissants</span> dus à l'<span style="font-weight:700">évolution des risques</span>. Parmi les plus importants, on trouve les <span style="font-weight:700;">cyberattaques</span>, le <span style="font-weight:700;">dérèglement climatique</span> et l'<span style="font-weight:700">environnement économique</span>.</mj-text>
@@ -74,39 +74,39 @@
     </mj-section>
     <mj-section background-color="#ffffff" padding-left="17px" padding-right="17px">
       <mj-column width="50%" padding="8px">
-        <mj-image padding="0" border="none" fluid-on-mobile="true" target="_blank" src="https://i.ibb.co/ph1yZ8P/let-T03-052024.jpg" href="https://ecosup-assurance.fr/conseiller-clientele-2/" alt="Poste à Pourvoir : Conseiller/ère clientèle en alternance"/>
+        <mj-image padding="0" border="none" fluid-on-mobile="true" target="_blank" src="https://i.ibb.co/BzRKj6q/let1-062024.jpg" href="https://ecosup-assurance.fr/membre-reseau-esa/" alt="Logo ESA et carte du réseau ESA : l'École Supérieure de l'Assurance"/>
       </mj-column>
       <mj-column width="50%" padding="8px">
-        <mj-text padding="0" align="left" font-size="14px" font-weight="900" color="#944694" line-height="18px" text-transform="uppercase">Poste à pouvoir</mj-text>
-        <mj-text padding="0" align="left" font-size="20px" font-weight="700" line-height="24px" color="#684092">Conseiller/ère clientèle en alternance</mj-text>
-        <mj-text padding="0" font-size="16px" line-height="20px" font-weight="300">Vous rejoignez l'équipe <span style="font-weight:700;">Centre de Relation Clientèle</span> d'un grand groupe bancaire français dont la mission est d'analyser, contrôler et financer des dossiers de regroupement de crédits. Vos missions sont</mj-text>
-        <mj-text align="right" color="#BA4995" font-weight="700"><a href="https://ecosup-assurance.fr/conseiller-clientele-2/" style="color:#BA4995;text-decoration:none;" target="_blank">Lire la suite...</a></mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section background-color="#ffffff" padding-left="17px" padding-right="17px">
-      <mj-column width="50%" padding="8px">
-        <mj-image padding="0" border="none" width="480px" fluid-on-mobile="true" target="_blank" src="https://i.ibb.co/mvMhwY2/let-T01-052024.jpg" href="https://ecosup-assurance.fr/interview-mathilde/" alt="Mathilde M étudiante en Bachelor Chargée de Clientèles en Assurance et Banque"/>
-      </mj-column>
-      <mj-column width="50%" padding="8px">
-        <mj-text padding="0" align="left" font-size="14px" font-weight="900" color="#944694" line-height="18px" text-transform="uppercase">Interview</mj-text>
-        <mj-text padding="0" align="left" font-size="20px" font-weight="700" line-height="24px" color="#684092">Mathilde, future étudiante à Ecosup Assurance a décroché son alternance</mj-text>
-        <mj-text padding="0" font-size="16px" line-height="20px" font-weight="300">A 22 ans, après un BTS MCO, Mathilde prépare un Bachelor Chargée de Clientèles en Assurance et Banque. Elle nous explique les raisons de son choix et comment elle a obtenu son contrat d'alternance</mj-text>
-        <mj-text align="right" color="#BA4995" font-weight="700"><a href="https://ecosup-assurance.fr/interview-mathilde" style="color:#BA4995;text-decoration:none;" target="_blank">Lire la suite...</a></mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section background-color="#ffffff" padding-left="17px" padding-right="17px">
-      <mj-column width="50%" padding="8px">
-        <mj-image padding="0" border="none" fluid-on-mobile="true" target="_blank" src="https://i.ibb.co/ph1yZ8P/let-T03-052024.jpg" href="https://ecosup-assurance.fr/conseiller-clientele-2/" alt="Poste à Pourvoir : Conseiller/ère clientèle en alternance"/>
-      </mj-column>
-      <mj-column width="50%" padding="8px">
-        <mj-text padding="0" align="left" font-size="14px" font-weight="900" color="#944694" line-height="18px" text-transform="uppercase">Événement</mj-text>
-        <mj-text padding="0" align="left" font-size="20px" font-weight="700" line-height="24px" color="#684092">Accès des jeunes à l'apprentissage : Ecosup s'engage !</mj-text>
-        <mj-text padding="0" font-size="16px" line-height="20px" font-weight="300"><span style="font-weight:700;">Plus de 350 participants</span> ont franchi les portes de Lillenium ce 29 mai pour la forum Start'Avenir. Ce fut un plaisir pour EcoSup Assurance et son partenaire Kelly Services de Lille d'accompagner et de coacher les jeunes !</mj-text>
+        <mj-text padding="0" align="left" font-size="14px" font-weight="900" color="#944694" line-height="18px" text-transform="uppercase">Actualités Assurance</mj-text>
+        <mj-text padding="0" align="left" font-size="20px" font-weight="700" line-height="24px" color="#684092">Ecosup Assurance, membre du réseau ESA : un acteur majeur de la formation en assurance en France</mj-text>
+        <mj-text padding="0" font-size="16px" line-height="20px" font-weight="300"><span style="font-weight:700;">L'École Supérieure d'Assurance (ESA)</span> met l'accent sur une pédagogie d'excellence combinant savoirs théoriques et pratiques</mj-text>
+        <mj-text align="right" color="#BA4995" font-weight="700"><a href="https://ecosup-assurance.fr/membre-reseau-esa/" style="color:#BA4995;text-decoration:none;" target="_blank">Lire la suite...</a></mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#EDF2F7" padding-left="17px" padding-right="17px">
       <mj-column width="50%" padding="8px">
-        <mj-image padding="0" border="none" fluid-on-mobile="true" target="_blank" src="https://i.ibb.co/ggdqGfQ/BTSeptembre.jpg" alt="Poste à Pourvoir : Conseiller/ère clientèle en alternance"/>
+        <mj-image padding="0" border="none" width="480px" fluid-on-mobile="true" target="_blank" src="https://i.ibb.co/RjBLrcJ/let2-062024.jpg" href="https://ecosup-assurance.fr/interview-camille/" alt="Camille G étudiante en BTS Assurance à Ecosup Campus"/>
+      </mj-column>
+      <mj-column width="50%" padding="8px">
+        <mj-text padding="0" align="left" font-size="14px" font-weight="900" color="#944694" line-height="18px" text-transform="uppercase">Interview</mj-text>
+        <mj-text padding="0" align="left" font-size="20px" font-weight="700" line-height="24px" color="#684092">Camille a choisi Ecosup Assurance pour préparer le BTS Assurance</mj-text>
+        <mj-text padding="0" font-size="16px" line-height="20px" font-weight="300">Camille, 20 ans finit sa licence de STAPS pour s'orienter vers les métiers de l'Assurance et préparer le BTS Assurance en alternance. Dans cet interview, elle nous explique les raisons de son choix</mj-text>
+        <mj-text align="right" color="#BA4995" font-weight="700"><a href="https://ecosup-assurance.fr/interview-camille" style="color:#BA4995;text-decoration:none;" target="_blank">Lire la suite...</a></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding-left="17px" padding-right="17px">
+      <mj-column width="50%" padding="8px">
+        <mj-image padding="0" border="none" fluid-on-mobile="true" target="_blank" src="https://i.ibb.co/vxJtb0X/let3-042024.jpg" alt="Forum Start'Avenir à Lillenium :e mercredi 29 mai"/>
+      </mj-column>
+      <mj-column width="50%" padding="8px">
+        <mj-text padding="0" align="left" font-size="14px" font-weight="900" color="#944694" line-height="18px" text-transform="uppercase">Événement</mj-text>
+        <mj-text padding="0" align="left" font-size="20px" font-weight="700" line-height="24px" color="#684092">Accès des jeunes à l'apprentissage : Ecosup s'engage !</mj-text>
+        <mj-text padding="0" font-size="16px" line-height="20px" font-weight="300"><span style="font-weight:700;">Plus de 350 participants</span> ont franchi les portes de Lillenium ce 29 mai pour le forum Start'Avenir. Ce fut un plaisir pour EcoSup Assurance et son partenaire Kelly Services de Lille d'accompagner et de coacher les jeunes !</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#EDF2F7" padding-left="17px" padding-right="17px">
+      <mj-column width="50%" padding="8px">
+        <mj-image padding="0" border="none" fluid-on-mobile="true" target="_blank" src="https://i.ibb.co/ggdqGfQ/BTSeptembre.jpg" alt="affiche de l'opération Inscription BTS en alternance"/>
       </mj-column>
       <mj-column width="50%" padding="8px">
         <mj-text padding="0" align="left" font-size="14px" font-weight="900" color="#944694" line-height="18px" text-transform="uppercase">Formaton</mj-text>
@@ -117,16 +117,16 @@
         <mj-button align="right" css-class="hover" background-color="#BA4995" color="#ffffff" font-size="16px" href="tel:0616262619">contactez nous </mj-button>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#ffffff" padding="20px 32px">
+    <mj-section background-color="#270938" padding="20px 32px">
       <mj-column width="320px">
-        <mj-image width="140px" padding="0" border="none" align="center" target="_blank" src="https://img.mailinblue.com/3403292/images/content_library/original/65eb27b4d0c8d6691c4e4e95.png" href="https://ecosup-campus.com" alt="Logo Ecosup Campus"/>
-        <mj-text padding="0" align="center" font-size="12px" font-weight="300" line-height="16px" color="#2D3748">17 rue Charles et Albert Roussel</mj-text>
-        <mj-text padding="0" align="center" font-size="12px" font-weight="300" line-height="16px" color="#2D3748" text-transform="uppercase">59200 Tourcoing</mj-text>
-        <mj-text padding="0" align="center" font-size="12px" font-weight="700" line-height="16px" color="#2D3748"><a style="text-decoration:none;color:#2D3748" href="tel:0320700606">Tél 03.20.70.06.06</a>                </mj-text>
-        <mj-text padding="0 0 25px 0" align="center" font-size="12px" font-weight="300" line-height="16px" color="#2D3748"><a style="text-decoration:none;color:#2D3748" href="mailto:contact@ecosup-campus.fr">contact@ecosup-campus.fr</a></mj-text>
-        <mj-text padding="0" align="center" font-size="12px" font-weight="300" line-height="16px" color="#2D3748">si vous n'arrivez pas à lire cet email, cliquez <a style="color:#BA4995;text-decoration:none;font-weight:700" href="{{ mirror }}">ici</a></mj-text>
-        <mj-text padding="0" align="center" font-size="12px" font-weight="300" line-height="16px" color="#2D3748">Pour être sûr(e) de recevoir nos communications, ajoutez <a style="text-decoration:none;color:#2D3748;" href="mailto:contact@ecosup-campus.fr">contact@ecosup-campus.fr</a> dans votre carnet d'adresses.</mj-text>
-        <mj-text padding="0" align="center" font-size="12px" font-weight="300" line-height="16px" color="#2D3748">Pour vous désinscrire, cliquez <a style="color:#BA4995;text-decoration:none;font-weight:700" href="{{ unsubscribe}}">ici</a>.</mj-text>
+        <mj-image width="140px" padding="0" border="none" align="center" target="_blank" src="https://i.ibb.co/8K8y4kW/ECOSUP-CAMPUS-Blanc012024.png" href="https://ecosup-campus.com" alt="Logo Ecosup Campus"/>
+        <mj-text padding="0" align="center" font-size="12px" font-weight="300" line-height="16px" color="#fcfcfc">17 rue Charles et Albert Roussel</mj-text>
+        <mj-text padding="0" align="center" font-size="12px" font-weight="300" line-height="16px" color="#fcfcfc" text-transform="uppercase">59200 Tourcoing</mj-text>
+        <mj-text padding="0" align="center" font-size="12px" font-weight="700" line-height="16px" color="#fcfcfc"><a style="text-decoration:none;color:#fcfcfc" href="tel:0320700606">Tél 03.20.70.06.06</a>                </mj-text>
+        <mj-text padding="0 0 25px 0" align="center" font-size="12px" font-weight="300" line-height="16px" color="#fcfcfc"><a style="text-decoration:none;color:#fcfcfc" href="mailto:contact@ecosup-campus.fr">contact@ecosup-campus.fr</a></mj-text>
+        <mj-text padding="0" align="center" font-size="12px" font-weight="300" line-height="16px" color="#fcfcfc">si vous n'arrivez pas à lire cet email, cliquez <a style="color:#BA4995;text-transform:uppercase;text-decoration:none;font-weight:700" href="{{ mirror }}">ici</a></mj-text>
+        <mj-text padding="0" align="center" font-size="12px" font-weight="300" line-height="16px" color="#fcfcfc">Pour être sûr(e) de recevoir nos communications, ajoutez <a style="text-decoration:none;color:#fcfcfc;" href="mailto:contact@ecosup-campus.fr">contact@ecosup-campus.fr</a> dans votre carnet d'adresses.</mj-text>
+        <mj-text padding="0" align="center" font-size="12px" font-weight="300" line-height="16px" color="#fcfcfc">Pour vous désinscrire, cliquez <a style="color:#BA4995;text-transform:uppercase;text-decoration:none;font-weight:700" href="{{ unsubscribe}}">ici</a>.</mj-text>
       </mj-column>
     </mj-section>
   </mj-body>
